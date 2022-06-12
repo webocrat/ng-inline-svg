@@ -1,6 +1,6 @@
 # ng-inline-svg
 
-⚠️　**This package is deprecated and not maintained.** ⚠️
+Update to support Angular 13
 
 ---
 
