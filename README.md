@@ -1,14 +1,15 @@
-# ng-inline-svg
+# ng-inline-svg-w
 
-Update to support Angular 13
+Fork of ng-inline-svg with support for Angular 13
 
 ---
 
-[![NPM](https://nodei.co/npm/ng-inline-svg.png?compact=true)](https://nodei.co/npm/ng-inline-svg)
+[![NPM](https://nodei.co/npm/ng-inline-svg-w.png?compact=true)](https://nodei.co/npm/ng-inline-svg-w)
 
 **[Demo](https://echeung.me/ng-inline-svg)**
 
 *Formerly called [ng2-inline-svg](https://github.com/arkon/ng2-inline-svg)*
+*Formerly called [ng-inline-svg](https://github.com/arkon/ng2-inline-svg)*
 
 Angular directive for inserting an SVG inline within an element, allowing for easily styling
 with CSS like `fill: currentColor;`.
@@ -21,7 +22,7 @@ font icons.
 ## Installation
 
 ```shell
-npm install --save ng-inline-svg
+npm install --save ng-inline-svg-w
 ```
 
 

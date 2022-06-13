@@ -1,7 +1,7 @@
 {
-  "name": "ng-inline-svg",
-  "version": "13.6.12",
-  "description": "Angular directive for inserting an SVG inline within an element.",
+  "name": "ng-inline-svg-w",
+  "version": "13.6.13",
+  "description": "Angular directive for inserting an SVG inline within an element. Fork of no longer supported ng-inline-svg",
   "repository": {
     "type": "git",
     "url": "https://github.com/webocrat/ng-inline-svg.git"
@@ -20,7 +20,9 @@
   "license": "MIT",
   "keywords": [
     "angular",
+    "13",
     "ng",
+    "ng-inline-svg",
     "svg",
     "inline",
     "inject",
@@ -38,7 +40,7 @@
     "prepare": "npm run build"
   },
   "peerDependencies": {
-    "rxjs": "^6.6.0 || ^7.4.0"
+    "rxjs": "^6.6.0 || ^7.4.0",
   },
   "devDependencies": {
     "@angular/cli": "^13.3.7",
